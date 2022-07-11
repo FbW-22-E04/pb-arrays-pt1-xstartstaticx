@@ -43,7 +43,8 @@ console.log("Q8:", worldCities.reverse());
 // console.log("Qb:", (euroJoined + "," + asianJoined).split(",").reverse());
 
 // 9 Bonus
-
+euroCities.splice(2, 1);
+console.log("Q9 BONUS:", euroCities);
 // 10 Bonus
 
 // 11 Bonus
